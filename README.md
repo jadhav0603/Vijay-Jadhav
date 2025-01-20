@@ -5,13 +5,15 @@
 
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-- 🔭 I’m currently Studying on MASAI SCHOOL Institude [Croma Clone](https://croma-clone-frontend.onrender.com/)
+- 🔭 I’m currently Studying at MASAI SCHOOL Institute.
 
 - 🌱 I’m currently learning **Material UI, Full-Stack web developer**
 
-- 👯 My completed projects is [Sugar Cosmetic Clone](https://sugar-cosmeticsclone.vercel.app/)
+- 🤝 My completed project is [Croma Clone](https://croma-clone-frontend.onrender.com/)
 
-- 🤝 My completed projects is [Big Basket Clone](https://bigbasketecommerceclone.netlify.app/index.html)
+- 👯 My completed project is [Sugar Cosmetic Clone](https://sugar-cosmeticsclone.vercel.app/)
+
+- 🤝 My completed project is [Big Basket Clone](https://bigbasketecommerceclone.netlify.app/index.html)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-frontend-4nu3.onrender.com/](https://portfolio-frontend-4nu3.onrender.com/)
 
